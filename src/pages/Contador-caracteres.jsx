@@ -1,8 +1,11 @@
 import React from 'react';
+import Form from '../components/Contador/Form'
 
 function Contador() {
 	return(
-		<h1>Contador</h1>
+		<>
+			<Form />
+		</>
 	)
 }
 

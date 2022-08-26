@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Grape+Nuts&display=swap');
+body{
+  background: #588af9;
+    padding: 0;
+    margin: 0;
+    font-family: 'Grape Nuts', cursive;
+}
+h1, h2, h3{
+    font-weight: bold;
+  text-align: center;
+    color: #fff;
+  margin: 0 0 10px 0;
+}
+h1{
+  font-size: 30px;
+    font-family: 'Audiowide', cursive;
+}
+h2{
+  font-size: 28px;
+}
+h3{
+  text-align: left;
+  font-size: 20px;
+  width: 100%;
+  margin-top: 20px;
+    font-family: 'Arial';
+}
+button{
+  padding: 10px 40px;
+  float: right;
+  margin-top: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #10855a;
+  color: #10855a;
+  background-color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
+#container{
+  width: 540px;
+  margin: 40px auto 0;
+}
+textarea{
+  padding: 10px 20px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  box-shadow: inset 0 1px 6px #666;
+  margin: 10px 0 0px;
+}
+
+

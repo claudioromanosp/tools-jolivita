@@ -7,7 +7,6 @@ import {
   Link,
 } from "react-router-dom";
 
-import Layout from "./pages/Layout";
 import Home from "./pages/Home";
 import Contador from "./pages/Contador-caracteres";
 import Encurtador from "./pages/Encurtador";
